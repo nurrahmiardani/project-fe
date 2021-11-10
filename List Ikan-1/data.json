@@ -1,0 +1,177 @@
+[
+  {
+    
+    "Nama": "Ikan Tuna",
+    "NamaLatin": "Thunnini",
+    "Kota": "Bali",
+    "Protein": 23.33,
+    "Kalori": 144,
+    "Lemak": 4.9,
+    "Harga": 32.5,
+    "Img":"https://cdn.idntimes.com/content-images/community/2019/03/ikan-tuna-337d58f37de71665001b5431308e58ae_600x400.jpg",
+    "id": 1
+  },
+  {
+    "Nama": "Ikan Salmon",
+    "NamaLatin": "Oncorhynchus nerka",
+    "Kota": "Jakarta",
+    "Protein": 19.93,
+    "Kalori": 179,
+    "Lemak": 10.43,
+    "Harga": 100,
+    "Img":"https://i0.wp.com/gerava.com/wp-content/uploads/2019/12/Gambar-ikan-salmon.jpg?fit=500%2C333&ssl=1",
+    "id": "2"
+  },
+  {
+    "Nama": "Ikan Tongkol",
+    "NamaLatin": "Euthynnus affinis",
+    "Kota": "Surabaya",
+    "Protein": 13.7,
+    "Kalori": 100,
+    "Lemak": 1.5,
+    "Harga": 23,
+"Img":"",
+    "id": "3"
+  },
+  {
+    "Nama": "Ikan Belanak",
+    "NamaLatin": "Moolgarda seheli",
+    "Kota": "Makassar",
+    "Protein": 24.8,
+    "Kalori": 150,
+    "Lemak": 4.9,
+    "Harga": 20,
+"Img":"",
+    "id": "4"
+  },
+  {
+    "Nama": "Ikan Teri",
+    "NamaLatin": "Engraulidae sp",
+    "Kota": "Medan",
+    "Protein": 26.89,
+    "Kalori": 210,
+    "Lemak": 9.7,
+    "Harga": 35,
+"Img":"",
+    "id": "5"
+  },
+  {
+    "Nama": "Ikan Kembung",
+    "NamaLatin": "Restrelliger sp.",
+    "Kota": "Jepara",
+    "Protein": 21.3,
+    "Kalori": 125,
+    "Lemak": 3.4,
+    "Harga": 30,
+"Img":"",
+    "id": "6"
+  },
+  {
+    "Nama": "Udang Windu",
+    "NamaLatin": "Penaeus monodon",
+    "Kota": "Demak",
+    "Protein": 11.4,
+    "Kalori": 56,
+    "Lemak": 0.6,
+    "Harga": 90,
+"Img":"",
+    "id": "7"
+  },
+  {
+    "Nama": "Cumi-Cumi",
+    "NamaLatin": "Loligo sp.",
+    "Kota": "Jakarta",
+    "Protein": 16.1,
+    "Kalori": 75,
+    "Lemak": 0.7,
+    "Harga": 70,
+"Img":"",
+    "id": "8"
+  },
+  {
+    "Nama": "Ikan Cakalang",
+    "NamaLatin": "Katsuwonus pelami",
+    "Kota": "Manado",
+    "Protein": 19.6,
+    "Kalori": 107,
+    "Lemak": 0.7,
+    "Harga": 35,
+"Img":"",
+    "id": "9"
+  },
+  {
+    "Nama": "Ikan Tenggiri",
+    "NamaLatin": "Scomberomorini",
+    "Kota": "Palembang",
+    "Protein": 19.3,
+    "Kalori": 139,
+    "Lemak": 6.3,
+    "Harga": 40,
+"Img":"",
+    "id": "10"
+  },
+  {
+    "Nama": "Ikan Kakap",
+    "NamaLatin": "Lutjanidae sp",
+    "Kota": "Tabanan",
+    "Protein": 20,
+    "Kalori": 100,
+    "Lemak": 1.34,
+    "Harga": 45,
+    "Img": "https://asset.kompas.com/crops/v5x8yOzQa7KGeXiQ0-Gv9aSR-Is=/100x67:900x600/750x500/data/photo/2021/05/17/60a1f8649080d.jpg",
+    "id": "11"
+  },
+  {
+    "Nama": "Ikan Kerapu",
+    "NamaLatin": "Epinephelus sp",
+    "Kota": "Tanjung pinang",
+    "Protein": 19.38,
+    "Kalori": 92,
+    "Lemak": 1.02,
+    "Harga": 35,
+    "Img": "https://assets.petpintar.com/files/userfiles/2/1603098771-jenis-ikan-kerapu-6.jpg",
+    "id": "12"
+  },
+  {
+    "Nama": "Ikan Baronang",
+    "NamaLatin": "Siganus sp",
+    "Kota": "Batam",
+    "Protein": 14.5,
+    "Kalori": 78,
+    "Lemak": 0.6,
+    "Harga": 45,
+    "Img": "https://assets.pojoksatu.id/2020/07/Ikan-Baronang-390x250.jpg",
+    "id": "13"
+  },
+  {
+    "Nama": "Lobster",
+    "NamaLatin": "Nephropidae sp.",
+    "Kota": "Balikpapan",
+    "Protein": 27.55,
+    "Kalori": 129,
+    "Lemak": 1.25,
+    "Harga": 380,
+    "Img": "https://image-cdn.medkomtek.com/9CSXREBjZBjQ-gurRloJWK5QURI=/1200x675/smart/klikdokter-media-buckets/medias/2310216/original/025209600_1577372844-Heboh-Soal-Benih-Lobster-Ini-Manfaatnya-Bagi-Kesehatan-Anda-Shutterstock_22673587.jpg",
+    "id": "14"
+  },
+  {
+    "Nama": "Ikan barakuda",
+    "NamaLatin": "Sphyraena sp.",
+    "Kota": "Malang",
+    "Protein": 94,
+    "Kalori": 70,
+    "Lemak": 60,
+    "Harga": 40,
+    "Img": "https://cdn.idntimes.com/content-images/community/2019/08/mexico-great-barracuda-bf32c34809ed740aa115ea958ed55ddc_600x400.jpg",
+    "id": "15"
+  },
+  {
+    "Nama": "Ikan  Blue Marlin",
+    "NamaLatin": "Makaira nigricans",
+    "Kota": "Jombang",
+    "Protein": 26,
+    "Kalori": 100,
+    "Lemak": 0.4,
+    "Harga": 40,
+    "Img": "https://www.dictio.id/uploads/db3342/original/3X/7/c/7cf58fb848646a5a1b2440c9994d4428634a27ed.jpg",
+    …
