@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    background-color: azure;
+    font-size: 18px;
+}
+
+.App {
+    padding: 0 20rem;
+}
+
+h1 {
+    font-size: 36px;
+    color: black;
+}
+
+.title {
+    padding: 2rem 0;
+    text-align: center;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: 240;
+}
+
+h2:hover {
+    cursor: pointer;
+    transition: all .3s ease-in-out;
+    color: #037FFF;
+}
+
+h4 {
+    font-size: 18px;
+    font-weight: 240;
+    font-style: italic;
+    margin-bottom: 1rem;
+}
+
+p {
+    color: rgba(255, 255, 255, 0.596);
+}
+
+.item {
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 2rem;
+    padding-bottom: 6rem;
+}
+
+.item-container {
+    overflow: hidden;
+}
+
+.item-con {
+    padding: 1.2rem 1.2rem;
+    background-color: #226072;
+    border-radius: 10px;
+}
+
+.item-container>img {
+    width: 320px;
+    height: 180px;
+    transition: all .3s ease-in-out;
+    border-radius: 5px;
+}
+
+.item-container>img:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.buttons {
+    width: 100%;
+    margin: 3rem auto;
+    text-align: center;
+}
+
+.btn {
+    padding: .5rem 2rem;
+    background-color: #5EC27F;
+    border: none;
+    font-family: inherit;
+    font-size: inherit;
+    transition: all 0.4s cubic-bezier(1, -0.16, .6, 1.35);
+    border-radius: 5px;
+}
+
+.btn:not(:last-child) {
+    margin-right: 1rem;
+}
+
+.btn:hover {
+    background-color: lightgray;
+    cursor: pointer;
+}
+
+.btn:active, .btn:focus {
+    outline: none;
+    border: none;
+}
